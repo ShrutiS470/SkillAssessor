@@ -84,7 +84,7 @@ adk web
 After the app starts:
 
 - Open the local UI or terminal interface.
-- Paste the content of sample.txt in the box
+- Paste the content of sample.txt in the chat box
 - Confirm that the agent responds without authentication or model errors.
 
 If you get quota or `429 RESOURCE_EXHAUSTED`, wait and retry later or use a project with available quota.
