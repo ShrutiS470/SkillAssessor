@@ -70,6 +70,7 @@ GOOGLE_API_KEY=PASTE_YOUR_ACTUAL_API_KEY_HERE
 Using the terminal, navigate to the parent directory of your agent project (e.g. using cd ..):
 
 parent_folder/      <-- navigate to this directory
+
     multi_tool_agent/
         __init__.py
         agent.py
